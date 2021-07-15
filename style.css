@@ -1,9 +1,41 @@
-#FIO {
-    color:red;
-    margin-left: 600px;
-    margin-top: 100px;
-}
-
 body{
     background-image: url(images/background.jpg);
+}
+
+#FIO{
+    font-size: 40px;
+}
+#Photo{
+    float:left;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+#telephone-icon{
+    padding-top: 50px;
+    
+}
+
+aside {
+    margin-top: 50px;
+    width: 40%;
+    float: right;
+    font-style: italic;
+    color: #29627e;
+}
+
+#email-icon{
+    padding-top: 50px;
+    
+}
+
+#vk-icon{
+    padding-top: 50px;
+    
+}
+
+#links{
+    font-size: 30px;
+   
 }
