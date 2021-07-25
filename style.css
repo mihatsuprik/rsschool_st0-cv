@@ -1,0 +1,82 @@
+body{
+    background-image: url(images/background.jpg);
+}
+
+#FIO{
+    font-size: 40px;
+}
+#Photo{
+    float:left;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+#telephone-icon{
+    padding-top: 50px;
+    
+}
+
+aside {
+    margin-top: 50px;
+    width: 40%;
+    float: right;
+    font-style: italic;
+    color: #29627e;
+}
+
+#email-icon{
+    padding-top: 50px;
+    
+}
+
+#vk-icon{
+    padding-top: 50px;
+    
+}
+
+#link-telephone{
+    font-size: 30px;
+   
+}
+#link-email{
+    font-size: 30px;
+   
+}
+#link-vk{
+    font-size: 30px;
+   
+   
+}
+
+
+#ul{
+    display: inline-block;
+    margin-top: 130px;
+    font-size: 20px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    display: inline-block;
+    margin-top: 80px;
+}
+
+#Github-link{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-right: 80px;
+    margin-left: 50px;
+}
+
+#year{
+    font-size: 26px;
+    display: inline-block;
+    margin-right: 80px;
+}
+
+#rss{
+    display: inline-block;
+}
